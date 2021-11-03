@@ -1,6 +1,6 @@
 ### Hi there, I'm Berna 👋
 
-I’m a Software Engineer with a Computer Science background and 5+ years of web development.
+I’m a Software Engineer with a Computer Science background and 7+ years of web development.
 
 I build software products 🧑🏻‍💻
 
